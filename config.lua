@@ -21,7 +21,7 @@ travelnet.abm_enabled              = false;
 -- change these if you want other receipes for travelnet or elevator
 travelnet.travelnet_recipe = {
                 {"default:glass", "default:steel_ingot", "default:glass", },
-                {"default:glass", "xtraores:rarium_block_chiseled",        "default:glass", },
+                {"default:glass", "xtraores:rarium_block",        "default:glass", },
                 {"default:glass", "default:steel_ingot", "default:glass", }
 }
 travelnet.elevator_recipe = {
