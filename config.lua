@@ -26,7 +26,7 @@ travelnet.travelnet_recipe = {
 }
 travelnet.elevator_recipe = {
 	        {"default:steel_ingot", "default:glass", "default:steel_ingot", },
-		{"default:steel_ingot", "default:mese",              "default:steel_ingot", },
+		{"default:steel_ingot", "default:steelblock",              "default:steel_ingot", },
 		{"default:steel_ingot", "default:glass", "default:steel_ingot", }
 }
 travelnet.tiles_travelnet = {
